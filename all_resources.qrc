@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>New-Splash-Screen.png</file>
+    <file>Sq.-Pause-n-Switch.png</file>
+    <file>home.png</file>
+    <file>Sq.Start.png</file>
+    <file>New-Inactive-Next.png</file>
+    <file>New-Know-More.png</file>
+    <file>New-Next.png</file>
+    <file>New-Pause.png</file>
+    <file>New-Start.png</file>
+    <file>Connected.png</file>
+    <file>Connect.png</file>
+    <file>Active-Next.png</file>
+    <file>Icon.png</file>
+    <file>Inactive-Next.png</file>
+    <file>Know-More.png</file>
+    <file>Pause-or-Switch.png</file>
+    <file>Start.png</file>
+    <file>SplashScreen_medium_classic.png</file>
+    <file>exit.png</file>
+    <file>SplashScreen_medium_pro.png</file>
+  </qresource>
+</RCC>
